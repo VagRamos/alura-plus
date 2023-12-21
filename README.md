@@ -2,8 +2,8 @@
 
 <img src="assets/figma-alura-plus.png">
 
-<h2>Layout do projeto/h2>
+<h2>Layout do projeto</h2>
 
-Projeto desenvolvido juntamente a um treinamento na ALURA.
+<p> Projeto desenvolvido juntamente a um treinamento na ALURA.
 O layout do site foi elaborado utilizando o Figma para desenvolver uma plataforma de streaming, a Alura Plus.
-Projeto iniciado com HTML e CSS.
+Projeto iniciado com HTML e CSS. </p>
